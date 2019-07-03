@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="CounterTitle">Counter App</string>
+    <string name="counterTextView">0</string>
+    <string name="BtnCount">Count</string>
+    <string name="ResetBtn">reset</string>
+</resources>
