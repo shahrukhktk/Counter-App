@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void Count(View view)
     {
-        Counter = Counter ++;
+        Counter ++;
         textView.setText(""+Counter);
     }
 
